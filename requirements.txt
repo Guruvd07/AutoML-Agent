@@ -6,3 +6,4 @@ xgboost
 matplotlib
 joblib
 groq
+python-dotenv
