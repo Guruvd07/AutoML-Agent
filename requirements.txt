@@ -1,6 +1,14 @@
 streamlit==1.44.1
+<<<<<<< HEAD
 pandas==2.2.3
 numpy==1.26.4
 scikit-learn==1.6.1
 matplotlib==3.10.1
 xgboost==2.1.4
+=======
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.8.4
+xgboost==2.0.3
+>>>>>>> ffc9f8d (Fix render python build)
